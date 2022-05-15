@@ -1,11 +1,11 @@
 {
-    "name": "ccovey/ldap-auth",
+    "name": "nazan/ldap-auth",
     "description": "",
     "keywords": ["laravel", "L4", "LDAP", "Authentication", "Laravel 4"],
     "authors": [
         {
-            "name": "Cody Covey",
-            "email": "ccovey14@gmail.com"
+            "name": "Nazan Naeem's fork Cody Covey",
+            "email": "hussennaeem@gmail.com"
         }
     ],
     "require": {
